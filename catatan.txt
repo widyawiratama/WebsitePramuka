@@ -1,0 +1,25 @@
+Nama Aplikasi : Web Pendataan Pramuka SMA
+
+Anggota Kelompok :
+- Bondan Okky Syahputra - A11.2013.07640
+- Dika Aji Ariyanto - A11.2013.07671
+- Widya Wiratama - A11.2013.07639
+
+Deskripsi Aplikasi : 
+Aplikasi ini bertujuan untuk melakukan pendataan anggota pramuka SMA
+
+Siapa pengguna potensial aplikasi :
+- Admin Web
+- Calon Anggota Pramuka SMA
+
+Apa manfaat / kegunaan aplikasi :
+- Untuk mempermudah pendataan anggota pramuka di SMA
+
+Fitur / Komponen yang terdapat pada aplikasi :
+- Home
+- Profil
+- Login
+- Daftar Anggota
+- Data Anggota
+- Cetak Kartu Anggota
+- About

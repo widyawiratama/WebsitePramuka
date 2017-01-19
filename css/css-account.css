@@ -1,0 +1,46 @@
+body{
+	background-color: #FFED8B;
+	font-size: 14px;
+}
+.container {
+    width: 350px;
+}
+label{
+	font-size: 14px;	
+}
+.btn-primary {
+    color: #fff;
+    background-color: #DE7702;
+    border-color: #FFA850;
+}
+.btn-primary:focus {
+    color: #fff;
+    background-color: #DE7702;
+    border-color: #FFA850;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #FFA850;
+    border-color: #DE7702;
+}
+.btn-block {
+    display: block;
+    width: 50%;
+}
+.panel{
+	background-color: #FFA843;
+	border-bottom-color: transparent;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+}
+.panel-default > .panel-heading{
+	background-color: #DE7702;
+	border-bottom-color: transparent;
+}
+.login-register{
+	text-align:center;
+}
+input.btn-block[type="submit"] {
+    width: 50%;
+}
